@@ -1,1 +1,1 @@
-showing recipes for lasagne 
+showing recipes for lasagna 
